@@ -12,5 +12,6 @@ Yunjae Lee
 To run the dashboard:
 ```python3 -m shiny run --launch-browser src/dashboard/main_App.py```
 
-Instructions for the PHTI Implementation are given in a separate Readme in /phti.
+Instructions for the PHTI Implementation are given in a separate readme in /phti.
+
 
