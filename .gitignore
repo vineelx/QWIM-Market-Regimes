@@ -1,0 +1,3 @@
+# ignore specific result files
+data/lstm_results.csv
+data/tft_results.csv
