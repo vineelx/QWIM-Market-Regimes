@@ -7,9 +7,10 @@ Dixit Gajjar\
 Esen Dashnyam\
 Tarun Mundarth\
 Vineel Pentrala\
-Yunjae Lee\
+Yunjae Lee
 
 To run the dashboard:
 ```python3 -m shiny run --launch-browser src/dashboard/main_App.py```
 
 Instructions for the PHTI Implementation are given in a separate Readme in /phti.
+
